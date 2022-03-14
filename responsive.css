@@ -1,6 +1,6 @@
 /* tablet */
 
-@media (max-width: 768px) {
+@media (max-width: 1000px) {
     nav ul {
         width: 50%;
     }
@@ -9,7 +9,7 @@
 
 /* Mobile */
 
-@media (max-width: 576px) {
+@media (max-width: 670px) {
     .menu-toggle {
         display: flex;
     }
